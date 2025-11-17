@@ -200,14 +200,3 @@ k=2,  # Number of examples to retrieve
 pip install -r requirements.txt --upgrade
 ```
 
-## License
-
-[Add your license here]
-
-## Contributing
-
-[Add contribution guidelines here]
-
-## Contact
-
-[Add contact information here]
