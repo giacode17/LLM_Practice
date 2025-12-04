@@ -5,7 +5,7 @@ A natural language SQL query system for t-shirt inventory management. This appli
 
 ## Video Demo
 
-[You can see this project](https://www.linkedin.com/feed/update/urn:li:activity:7402256697848868864/)
+Please check this demo on my youtube[ Go ](https://www.youtube.com/watch?v=aLGF7eolNEk&t=33s)
 
 ## Features
 
