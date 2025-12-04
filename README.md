@@ -2,6 +2,11 @@
 
 A natural language SQL query system for t-shirt inventory management. This application uses LangChain with OpenAI's GPT-4o-mini to convert natural language questions into SQL queries, providing an intuitive interface for querying inventory and revenue data.
 
+
+## Video Demo
+
+[You can see this project](https://www.youtube.com/watch?v=aLGF7eolNEk)
+
 ## Features
 
 - **Natural Language Queries**: Ask questions in plain English about inventory and revenue
